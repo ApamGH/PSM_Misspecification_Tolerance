@@ -345,13 +345,14 @@ Reduce the number of replications in the configuration file or run the pilot con
 Check that the output directory exists and that the configuration file specifies a valid output path. Also inspect the log file for error messages.
 
 ## Manuscript Citation
+Note: The associated manuscript is not published at the moment. The correct citation will be placed here when it is finally published. If you want to collaborate as well on this, please get in touch with me at bapam@bolgatu.edu.gh.
 
-If you use or adapt this repository, please cite the associated manuscript:
+<!-- If you use or adapt this repository, please cite the associated manuscript:
 
 ```text
 Apam, B. (2026). Design fragility and misspecification tolerance in PSM: 
 A diagnostic boundary framework for observational causal inference.
-```
+``` -->
 
 Update this citation once the manuscript is formally accepted or published.
 
