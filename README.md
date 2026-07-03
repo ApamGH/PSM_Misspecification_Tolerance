@@ -354,8 +354,6 @@ Apam, B. (2026). Design fragility and misspecification tolerance in PSM:
 A diagnostic boundary framework for observational causal inference.
 ``` -->
 
-Update this citation once the manuscript is formally accepted or published.
-
 ## Software Citation
 
 If citing the repository directly, use:
@@ -373,8 +371,8 @@ This project is released under the MIT Licence. See the `LICENSE` file for detai
 
 ## Author
 
-**Dr. Bismark Apam**  
-Lecturer, Statistician, and Data Analyst  
+**Dr. Benjamin Apam**  
+Lecturer | Statistician | Data Analyst  
 Bolgatanga Technical University  
 
 ## Contact
